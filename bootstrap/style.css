@@ -1,3 +1,8 @@
-.row {
-    
+
+.btn {
+    background-color: lightgray;
 }
+
+.btn:hover {
+    background-color: blue;
+  }
